@@ -1,52 +1,61 @@
-# 👋 Hey, I'm Jamal
+# Jamal Lharri
 
-🎓 Mechanical Engineering Graduate | 💻 Learning Web Development  
-🌍 Based in London | 🔧 Currently focused on website fundamentals and core programming skills
-
----
-
-## 👨‍💻 About Me
-
-With a strong foundation in analytical thinking, problem-solving, and systems design from my engineering background, I'm now transitioning into the world of tech. I'm passionate about building practical, user-friendly websites — and this space marks the start of that journey.
+**Mechanical Engineering Graduate | Aspiring Web Developer**  
+Based in London | Currently focused on web development fundamentals and core programming skills
 
 ---
 
-## 🌐 My Website
+## About Me
 
-🚧 *Coming soon – this will showcase my live websites and learning progress.*
+With a strong foundation in analytical thinking, problem-solving, and systems design from my mechanical engineering background, I am transitioning into the technology sector. I am passionate about building practical, user-friendly websites and applications. This GitHub profile represents the beginning of my journey in software development.
 
----
-
-## 🌱 What I’m Currently Focusing On
-
-- 📄 Learning website basics with **HTML** and **CSS**
-- 🎨 Improving layout and design fundamentals
-- 🧠 Building confidence with core programming in **Python** and **C++**
-- 📁 Using Git & GitHub for collaboration and version control
+I recognize the growing importance of AI integration in modern development workflows and am committed to incorporating AI-assisted tools and methodologies throughout my coding practices and professional projects.
 
 ---
 
-## 🧰 Technologies & Tools
+## Portfolio Website
 
-- **Languages:** Python, MATLAB, C++, HTML, CSS  
-- **Tools:** VS Code, Git, GitHub  
-
----
-
-## 🛠 Projects
-
-💡 I’ll be updating this section regularly as I build new projects.  
-Projects will include:
-- Simple, responsive web pages
-- Educational mini-projects
-- Real-world applications as I progress
+*Currently in development – will showcase live projects and learning progress.*
 
 ---
 
-## 📫 Let's Connect
+## Current Learning Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/jamal-lharri)
+- Mastering website fundamentals with **HTML** and **CSS**
+- Developing layout and design skills
 
 ---
 
-Thanks for stopping by — and stay tuned for updates!
+## Technical Skills
+
+**Programming Languages:** Python, MATLAB, C++, HTML, CSS, JavaScript  
+**Frameworks & Libraries:** React  
+**Development Tools:** Visual Studio Code, Git, GitHub  
+**Engineering Software:** AutoCAD, SolidWorks, MATLAB, Onshape, Fusion 360, ANSYS, Simulink
+
+---
+
+## Projects
+
+This section will be updated regularly as I develop new projects. Upcoming work will include:
+
+- Responsive web applications
+- Educational programming projects  
+- Real-world problem-solving applications
+- Engineering-focused software solutions
+
+---
+
+## Professional Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-lharri)
+
+---
+
+## Contact
+
+Feel free to reach out for collaboration opportunities or to discuss potential projects.
+
+---
+
+*Thank you for visiting my profile. Check back regularly for updates on my development journey.*
