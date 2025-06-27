@@ -1,4 +1,4 @@
-# Jamal Lharri
+# Jamal Lharri [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-lharri)
 
 **Mechanical Engineering Graduate | Aspiring Web Developer**  
 Based in London | Currently focused on web development fundamentals and core programming skills
@@ -43,12 +43,6 @@ This section will be updated regularly as I develop new projects. Upcoming work 
 - Educational programming projects  
 - Real-world problem-solving applications
 - Engineering-focused software solutions
-
----
-
-## Professional Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-lharri)
 
 ---
 
