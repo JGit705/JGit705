@@ -58,39 +58,18 @@ This mix lets me approach problems from both a computational and mechanical pers
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,cursor" />
 </p>
 
 ### **Engineering / CAD Software**
-AutoCAD • SolidWorks • Onshape • Fusion 360 • ANSYS • Simulink
-
----
-
-## 🏗️ Featured Projects
-
-### 🧮 **SQL Learning Lab (In Progress)**
-A structured collection of SQL challenges, schemas, queries, and optimisation notes.  
-**Focus:** joins, subqueries, indexing, query optimisation, relational design.
+AutoCAD • SolidWorks • Onshape • Fusion 360 • ANSYS • Simulink • PointWise
 
 ---
 
 ### 🧩 **CAD Portfolio (In Development)**
-A dedicated website to showcase my mechanical designs, assemblies, engineering studies, and 3D modelling skills.  
+A dedicated website to showcase my mechanical designs, assemblies, engineering drawings, and 3D modelling skills.  
 **Tools:** SolidWorks, Fusion 360, Onshape  
 **Goal:** Present professional-grade engineering visuals with interactive components.
-
----
-
-### 🔧 **3D Printer Cost Estimator**
-A modular Python tool that parses STL files and computes cost estimates using structured logic.  
-**Tech:** Python, JSON, Unit Testing  
-**Potential Expansion:** store print data and analytics in SQL.
-
----
-
-### 🌐 **Personal Portfolio Website**
-A central hub for my projects across software, SQL, and CAD.  
-**Tech:** HTML, CSS, JavaScript, React (coming soon)
 
 ---
 
