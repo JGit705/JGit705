@@ -58,7 +58,7 @@ This mix lets me approach problems from both a computational and mechanical pers
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,cursor" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github," />
 </p>
 
 ### **Engineering / CAD Software**
