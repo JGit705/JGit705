@@ -1,54 +1,117 @@
-# Jamal Lharri
-**Mechanical Engineering Graduate | Aspiring Web Developer**  
-Based in London | Currently focused on web development fundamentals and core programming skills
+<h1 align="center">👋 Hey, I'm Jamal Lharri</h1>
+<h3 align="center">Mechanical Engineering Graduate • Emerging Backend & SQL Developer • CAD Designer</h3>
+
+<p align="center">
+  Blending software development with engineering design.  
+  I build clean backend systems, explore SQL deeply, and create detailed CAD projects for my upcoming portfolio.
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-With a strong foundation in analytical thinking, problem-solving, and systems design from my mechanical engineering background, I am transitioning into the technology sector. I am passionate about building practical, user-friendly websites and applications. This GitHub profile represents the beginning of my journey in software development.
+I’m a mechanical engineering graduate transitioning into backend development and data-driven problem solving, while continuing to grow my CAD design expertise.
 
-I recognize the growing importance of AI integration in modern development workflows and am committed to incorporating AI-assisted tools and methodologies throughout my coding practices and professional projects.
+My work spans two connected worlds:
 
----
+### 🔸 **Software & Backend Engineering**
+Learning to build structured, reliable systems powered by clean SQL and maintainable logic.
 
-## Portfolio Website
+### 🔸 **Engineering Design & CAD**
+Creating detailed 3D models and engineering solutions, soon to be showcased on a dedicated CAD portfolio website.
 
-*Currently in development – will showcase live projects and learning progress.*
-
----
-
-## Current Learning Focus
-
-- Mastering website fundamentals with **HTML** and **CSS**
-- Developing layout and design skills
+This mix lets me approach problems from both a computational and mechanical perspective.
 
 ---
 
-## Technical Skills
+## 🎯 Current Learning Focus (2025)
 
-**Programming Languages:** Python, MATLAB, C++, HTML, CSS, JavaScript  
-**Frameworks & Libraries:** React  
-**Development Tools:** Visual Studio Code, Git, GitHub  
-**Engineering Software:** AutoCAD, SolidWorks, MATLAB, Onshape, Fusion 360, ANSYS, Simulink
+### 🧠 **Backend & SQL Development**
+- SQL fundamentals → advanced joins, subqueries & indexing  
+- Database schema design & optimisation  
+- Python integrations with SQL  
+- Building backend utilities and APIs  
 
----
-
-## Projects
-
-This section will be updated regularly as I develop new projects. Upcoming work will include:
-
-- Responsive web applications
-- Educational programming projects  
-- Real-world problem-solving applications
-- Engineering-focused software solutions
+### 🛠️ **CAD & Engineering Design**
+- Developing a **full CAD portfolio website** to showcase my models  
+- Mechanical components, assemblies, realistic renders, engineering studies  
+- Tools: SolidWorks, Fusion 360, Onshape, AutoCAD  
 
 ---
 
-## Contact
+## 🧰 Technical Skills
 
-Feel free to reach out for collaboration opportunities or to discuss potential projects.
+### **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,html,css,js" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+### **Engineering / CAD Software**
+AutoCAD • SolidWorks • Onshape • Fusion 360 • ANSYS • Simulink
 
 ---
 
-*Thank you for visiting my profile. Check back regularly for updates on my development journey.*
+## 🏗️ Featured Projects
+
+### 🧮 **SQL Learning Lab (In Progress)**
+A structured collection of SQL challenges, schemas, queries, and optimisation notes.  
+**Focus:** joins, subqueries, indexing, query optimisation, relational design.
+
+---
+
+### 🧩 **CAD Portfolio (In Development)**
+A dedicated website to showcase my mechanical designs, assemblies, engineering studies, and 3D modelling skills.  
+**Tools:** SolidWorks, Fusion 360, Onshape  
+**Goal:** Present professional-grade engineering visuals with interactive components.
+
+---
+
+### 🔧 **3D Printer Cost Estimator**
+A modular Python tool that parses STL files and computes cost estimates using structured logic.  
+**Tech:** Python, JSON, Unit Testing  
+**Potential Expansion:** store print data and analytics in SQL.
+
+---
+
+### 🌐 **Personal Portfolio Website**
+A central hub for my projects across software, SQL, and CAD.  
+**Tech:** HTML, CSS, JavaScript, React (coming soon)
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JamalLharri&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamalLharri&layout=compact&theme=tokyonight" height="170" />
+
+</div>
+
+---
+
+## 📬 Contact
+
+Feel free to reach out for collaborations or interesting software/CAD projects.
+
+📧 **Email:** *add here*  
+🔗 **LinkedIn:** Linked on the sidebar of my GitHub profile  
+
+---
+
+<p align="center">Thanks for visiting — follow along as I continue building across backend, SQL, and CAD 🚀</p>
