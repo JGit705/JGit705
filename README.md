@@ -107,11 +107,8 @@ A central hub for my projects across software, SQL, and CAD.
 
 ## 📬 Contact
 
-Feel free to reach out for collaborations or interesting software/CAD projects.
-
-📧 **Email:** *add here*  
-🔗 **LinkedIn:** Linked on the sidebar of my GitHub profile  
-
+Feel free to reach out to my LinkedIn for collaborations or interesting software/CAD projects.
+ 
 ---
 
 <p align="center">Thanks for visiting — follow along as I continue building across backend, SQL, and CAD 🚀</p>
