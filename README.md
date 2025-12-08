@@ -94,17 +94,6 @@ A central hub for my projects across software, SQL, and CAD.
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JamalLharri&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamalLharri&layout=compact&theme=tokyonight" height="170" />
-
-</div>
-
----
-
 ## 📬 Contact
 
 Feel free to reach out to my LinkedIn for collaborations or interesting software/CAD projects.
