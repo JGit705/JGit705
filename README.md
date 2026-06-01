@@ -1,82 +1,79 @@
-<h1 align="center">👋 Hey, I'm Jamal Lharri</h1>
-<h3 align="center">Mechanical Engineering Graduate • Emerging Backend & SQL Developer • CAD Designer</h3>
+<h1 align="center">Jamal Lharri</h1>
 
 <p align="center">
-  Blending software development with engineering design.  
-  I build clean backend systems, explore SQL deeply, and create detailed CAD projects for my upcoming portfolio.
+  <strong>Mechanical Engineering Graduate · Backend & Data Developer · CAD Designer</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BEng%20Hons-Mechanical%20Engineering-0A66C2?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IMechE%20Accredited-blue?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/London%2C%20UK-Open%20to%20Roles-555555?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jamal-lharri">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://jamal-lharri-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I’m a mechanical engineering graduate transitioning into backend development and data-driven problem solving, while continuing to grow my CAD design expertise.
+Mechanical engineering graduate with a practical software streak. I build tools that solve real problems — cost estimators, finance trackers, gesture recognition systems — and bring the same first-principles thinking from engineering into every backend and data project.
 
-My work spans two connected worlds:
+Currently managing dispatch operations for a 140+ van fleet at Ocado. Building projects and sharpening SQL outside of that.
 
-### 🔸 **Software & Backend Engineering**
-Learning to build structured, reliable systems powered by clean SQL and maintainable logic.
-
-### 🔸 **Engineering Design & CAD**
-Creating detailed 3D models and engineering solutions, soon to be showcased on a dedicated CAD portfolio website.
-
-This mix lets me approach problems from both a computational and mechanical perspective.
+Open to roles in engineering, data analysis, automation, and backend development — UK-wide.
 
 ---
 
-## 🎯 Current Learning Focus (2025)
+## Projects
 
-### 🧠 **Backend & SQL Development**
-- SQL fundamentals → advanced joins, subqueries & indexing  
-- Database schema design & optimisation  
-- Python integrations with SQL  
-- Building backend utilities and APIs  
-
-### 🛠️ **CAD & Engineering Design**
-- Developing a **full CAD portfolio website** to showcase my models  
-- Mechanical components, assemblies, realistic renders, engineering studies  
-- Tools: SolidWorks, Fusion 360, Onshape, AutoCAD  
+| Project | What it does | Stack |
+|---|---|---|
+| [ML-Hand-Gesture-Recognition](https://github.com/JGit705/ML-Hand-Gesture-Recognition) | Real-time hand gesture classification using machine learning | Python |
+| [Personal-Finance-Tracker](https://github.com/JGit705/Personal-Finance-Tracker) | Tracks income, expenses, and budget targets with data visualisation | JavaScript |
+| [3D-Printer-Cost-Estimator](https://github.com/JGit705/3D-Printer-Cost-Estimator) | Calculates material cost, print time, and job pricing for FDM printing | Python |
+| [Engineering Portfolio](https://jamal-lharri-portfolio.vercel.app/) | Personal site — CAD models, FEA work, and engineering projects | TypeScript |
 
 ---
 
-## 🧰 Technical Skills
+## Skills
 
-### **Programming Languages**
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,js,html,css" />
 </p>
 
-### **Databases**
+**Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### **Frameworks & Libraries**
+**Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,git,github,vscode" />
 </p>
 
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github," />
-</p>
+**Engineering & CAD**
 
-### **Engineering / CAD Software**
-AutoCAD • SolidWorks • Onshape • Fusion 360 • ANSYS • Simulink • PointWise
+`ABAQUS` `Fusion 360` `Onshape` `AutoCAD` `ANSYS` `Simulink` `SolidWorks`
 
 ---
 
-### 🧩 **CAD Portfolio (In Development)**
-A dedicated website to showcase my mechanical designs, assemblies, engineering drawings, and 3D modelling skills.  
-**Tools:** SolidWorks, Fusion 360, Onshape  
-**Goal:** Present professional-grade engineering visuals with interactive components.
+## Engineering Projects
+
+- **Autonomous Vehicle System** — C++ robot control, sensor integration, and pathfinding algorithms
+- **Fluid Mechanics Study** — MATLAB data processing pipeline with ±4% experimental accuracy
+- **FEA Bending Analysis** — ABAQUS structural simulation and stress analysis
+- **Hydrogen Techno-Economic Dissertation** — cost modelling, emissions analysis, and policy scenarios
 
 ---
 
-## 📬 Contact
+## Currently
 
-Feel free to reach out to my LinkedIn for collaborations or interesting software/CAD projects.
- 
----
-
-<p align="center">Thanks for visiting — follow along as I continue building across backend, SQL, and CAD 🚀</p>
+- Deepening SQL — schema design, indexing, Python integrations
+- Building out the [engineering portfolio](https://jamal-lharri-portfolio.vercel.app/)
+- Looking for early-career roles in engineering, data, or automation
