@@ -8,7 +8,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/London,%20UK-4a5560?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Mechanical+Engineering+Graduate;Building+in+Python+%2B+SQL;Moving+into+Data+%2F+Automation;1%25+better%2C+every+day." />
 
@@ -24,13 +24,9 @@ Currently managing operations for a **140+ van fleet at Ocado Logistics**. Outsi
 
 <div align="center">
 
-<br/>
-
 <img src="https://img.shields.io/badge/BEng%20(Hons)-Mechanical%20Engineering-0A66C2?style=for-the-badge&labelColor=1e2327&logo=googlescholar&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/IMechE-Accredited%20Degree-0A66C2?style=for-the-badge&labelColor=1e2327&logo=bookstack&logoColor=white" />
-
-<br/><br/>
 
 </div>
 
@@ -67,13 +63,6 @@ Currently managing operations for a **140+ van fleet at Ocado Logistics**. Outsi
 **Engineering & CAD**
 
 `SolidWorks` `ABAQUS` `ANSYS` `Fusion 360` `Onshape` `AutoCAD` `Simulink`
-
-## Stats
-
-<div align="center">
-<img height="165" src="./profile/stats.svg" alt="Jamal's GitHub stats" />
-<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
-</div>
 
 ## Currently
 
