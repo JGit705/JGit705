@@ -70,8 +70,10 @@ Currently managing operations for a **140+ van fleet at Ocado Logistics**. Outsi
 - 🏗️ Building out the [engineering portfolio](https://jamal-lharri-portfolio.vercel.app/)
 - 🎯 Looking for early-career roles in data, automation, or backend dev
 
-<br/>
+## Languages
 
 <div align="center">
-<sub>Thanks for stopping by — always happy to talk engineering, data, or a good automation idea.</sub>
+<img height="150" src="./profile/top-langs.svg" alt="Most used languages" />
 </div>
+
+<br/>
