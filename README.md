@@ -71,8 +71,8 @@ Currently managing operations for a **140+ van fleet at Ocado Logistics**. Outsi
 ## Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JGit705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGit705&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="165" src="./profile/stats.svg" alt="Jamal's GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 ## Currently
