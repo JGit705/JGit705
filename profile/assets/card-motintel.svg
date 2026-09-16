@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="364" viewBox="0 0 600 364" role="img" aria-label="MOTIntel: used car reliability from 42.7 million UK MOT tests in 2025, with an LLM layer checked against the data. Chart shows failure rate peaking at 42.7% for 18 to 21 year old cars.">
+<title>MOTIntel: used car reliability from 42.7 million UK MOT tests in 2025, with an LLM layer checked against the data. Chart shows failure rate peaking at 42.7% for 18 to 21 year old cars.</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.fade{animation:fade .7s ease both}
+@keyframes fade{from{opacity:0}}
+
+.grow{transform-box:fill-box;transform-origin:50% 100%;animation:grow 1.3s cubic-bezier(.16,1,.3,1) both}
+@keyframes grow{from{transform:scaleY(0)}}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2.2s ease-out 2s infinite both}
+@keyframes ping{0%{opacity:.8;transform:scale(1)}80%,100%{opacity:0;transform:scale(3)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><pattern id="cg-m" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#1E2E4A" stroke-opacity=".5"/></pattern><pattern id="cg" width="100" height="100" patternUnits="userSpaceOnUse"><rect width="100" height="100" fill="url(#cg-m)"/><path d="M100 0H0V100" fill="none" stroke="#1E2E4A"/></pattern><clipPath id="card"><rect width="600" height="364" rx="16"/></clipPath><clipPath id="band"><rect width="600" height="160"/></clipPath></defs>
+
+<g clip-path="url(#card)">
+<rect width="600" height="364" fill="#0E1729"/>
+<rect width="600" height="160" fill="#0B1220"/>
+<rect width="600" height="160" fill="url(#cg)" opacity=".7"/>
+<g clip-path="url(#band)"><text class="mono" x="24" y="28" font-size="12" letter-spacing="1.2" fill="#5A6C8C">FAILURE RATE BY VEHICLE AGE · 2025</text><path d="M24 132.5H576" stroke="#1E2E4A"/><g class="grow" style="animation-delay:0.25s"><rect x="52" y="110.9" width="72" height="21.1" rx="4" fill="#4DA3FF" fill-opacity="0.22"/><rect x="52" y="110.9" width="72" height="2.5" rx="1" fill="#4DA3FF"/></g><text class="mono fade" style="animation-delay:0.95s" x="88.0" y="102.9" text-anchor="middle" font-size="13" font-weight="400" fill="#E6EDF7">11.0%</text><text class="mono" x="88.0" y="151" text-anchor="middle" font-size="11.5" fill="#5A6C8C">0–3y</text><g class="grow" style="animation-delay:0.37s"><rect x="158" y="91.9" width="72" height="40.1" rx="4" fill="#4DA3FF" fill-opacity="0.22"/><rect x="158" y="91.9" width="72" height="2.5" rx="1" fill="#4DA3FF"/></g><text class="mono fade" style="animation-delay:1.07s" x="194.0" y="83.9" text-anchor="middle" font-size="13" font-weight="400" fill="#E6EDF7">20.9%</text><text class="mono" x="194.0" y="151" text-anchor="middle" font-size="11.5" fill="#5A6C8C">6–9y</text><g class="grow" style="animation-delay:0.49s"><rect x="264" y="60.0" width="72" height="72.0" rx="4" fill="#4DA3FF" fill-opacity="0.22"/><rect x="264" y="60.0" width="72" height="2.5" rx="1" fill="#4DA3FF"/></g><text class="mono fade" style="animation-delay:1.19s" x="300.0" y="52.0" text-anchor="middle" font-size="13" font-weight="400" fill="#E6EDF7">37.5%</text><text class="mono" x="300.0" y="151" text-anchor="middle" font-size="11.5" fill="#5A6C8C">12–15y</text><g class="grow" style="animation-delay:0.61s"><rect x="370" y="50.0" width="72" height="82.0" rx="4" fill="#FFB020" fill-opacity="0.85"/><rect x="370" y="50.0" width="72" height="2.5" rx="1" fill="#FFB020"/></g><text class="mono fade" style="animation-delay:1.31s" x="406.0" y="42.0" text-anchor="middle" font-size="13" font-weight="700" fill="#FFB020">42.7%</text><text class="mono" x="406.0" y="151" text-anchor="middle" font-size="11.5" fill="#5A6C8C">18–21y</text><circle class="ping" cx="452" cy="51.0" r="3.5" fill="#FFB020"/><circle cx="452" cy="51.0" r="3.5" fill="#FFB020"/><g class="grow" style="animation-delay:0.73s"><rect x="476" y="68.0" width="72" height="64.0" rx="4" fill="#4DA3FF" fill-opacity="0.22"/><rect x="476" y="68.0" width="72" height="2.5" rx="1" fill="#4DA3FF"/></g><text class="mono fade" style="animation-delay:1.43s" x="512.0" y="60.0" text-anchor="middle" font-size="13" font-weight="400" fill="#E6EDF7">33.3%</text><text class="mono" x="512.0" y="151" text-anchor="middle" font-size="11.5" fill="#5A6C8C">27–30y</text></g>
+<path d="M0 160.5H600" stroke="#1E2E4A"/>
+</g>
+<rect x=".5" y=".5" width="599" height="363" rx="16" fill="none" stroke="#1E2E4A"/>
+<text class="mono" x="28" y="198" font-size="13" letter-spacing="1.2" fill="#4DA3FF">DATA · LLM GROUNDED IN 42.7M ROWS</text>
+<rect x="460.3" y="181" width="111.7" height="24" rx="12" fill="#3DDC97" fill-opacity=".08" stroke="#3DDC97" stroke-opacity=".4"/>
+<text class="mono" x="516.1" y="197" text-anchor="middle" font-size="11.5" letter-spacing=".6" fill="#3DDC97">PUBLIC REPO ↗</text>
+<text x="28" y="238" font-size="28" font-weight="700" letter-spacing="-.4" fill="#E6EDF7">MOTIntel</text>
+<text x="28" y="268" font-size="16.5" fill="#8B9BB4">Should you buy that used car? One page of answers from every</text>
+<text x="28" y="292" font-size="16.5" fill="#8B9BB4">UK MOT test in 2025, with an LLM checked against the data.</text>
+<g class="fade" style="animation-delay:0.30s"><rect x="28.0" y="312.0" width="70.6" height="30" rx="15.0" fill="#14223A" stroke="#1E2E4A"/><text class="mono" x="63.3" y="331.7" text-anchor="middle" font-size="13.5" fill="#E6EDF7">Python</text></g><g class="fade" style="animation-delay:0.37s"><rect x="106.6" y="312.0" width="70.6" height="30" rx="15.0" fill="#14223A" stroke="#1E2E4A"/><text class="mono" x="141.9" y="331.7" text-anchor="middle" font-size="13.5" fill="#E6EDF7">DuckDB</text></g><g class="fade" style="animation-delay:0.44s"><rect x="185.2" y="312.0" width="70.6" height="30" rx="15.0" fill="#14223A" stroke="#1E2E4A"/><text class="mono" x="220.5" y="331.7" text-anchor="middle" font-size="13.5" fill="#E6EDF7">Polars</text></g><g class="fade" style="animation-delay:0.51s"><rect x="263.8" y="312.0" width="94.9" height="30" rx="15.0" fill="#14223A" stroke="#1E2E4A"/><text class="mono" x="311.2" y="331.7" text-anchor="middle" font-size="13.5" fill="#E6EDF7">Streamlit</text></g><g class="fade" style="animation-delay:0.58s"><rect x="366.7" y="312.0" width="70.6" height="30" rx="15.0" fill="#14223A" stroke="#1E2E4A"/><text class="mono" x="402.0" y="331.7" text-anchor="middle" font-size="13.5" fill="#E6EDF7">Gemini</text></g>
+
+</svg>
