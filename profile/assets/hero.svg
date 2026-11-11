@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Jamal Lharri. Mechanical engineer moving into data and automation. Regional Development Team Manager at Ocado Logistics, London.">
-<title>Jamal Lharri. Mechanical engineer moving into data and automation. Regional Development Team Manager at Ocado Logistics, London.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Jamal Lharri. Mechanical engineer in London who builds things and keeps the code here. By day, Regional Development Team Manager at Ocado Logistics.">
+<title>Jamal Lharri. Mechanical engineer in London who builds things and keeps the code here. By day, Regional Development Team Manager at Ocado Logistics.</title>
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
 .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
@@ -26,11 +26,11 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <g class="rise" style="animation-delay:.05s">
 <circle class="ping" cx="70" cy="87" r="4.5" fill="#3DDC97"/>
 <circle cx="70" cy="87" r="4.5" fill="#3DDC97"/>
-<text class="mono" x="86" y="92" font-size="13" letter-spacing="1.6" fill="#8B9BB4">OPEN TO DATA, AUTOMATION &amp; SYSTEMS ROLES · UK-WIDE</text>
+<text class="mono" x="86" y="92" font-size="13" letter-spacing="1.6" fill="#8B9BB4">MECHANICAL ENGINEER · LONDON</text>
 </g>
 <text class="rise" style="animation-delay:.2s" x="60" y="178" font-size="70" font-weight="750" letter-spacing="-1.5" fill="url(#shine)">Jamal Lharri</text>
-<text class="mono rise" style="animation-delay:.4s" x="64" y="226" font-size="21" fill="#E6EDF7">Mechanical engineer<tspan fill="#FFB020"> → </tspan><tspan fill="#4DA3FF">data &amp; automation</tspan></text>
-<text class="rise" style="animation-delay:.55s" x="64" y="264" font-size="18" fill="#8B9BB4">Regional Development Team Manager at Ocado Logistics · London</text>
+<text class="mono rise" style="animation-delay:.4s" x="64" y="226" font-size="21" fill="#E6EDF7">I build things<tspan fill="#FFB020"> → </tspan><tspan fill="#4DA3FF">the code lives here</tspan></text>
+<text class="rise" style="animation-delay:.55s" x="64" y="264" font-size="18" fill="#8B9BB4">By day: Regional Development Team Manager at Ocado Logistics</text>
 <g class="rise" style="animation-delay:0.75s"><rect x="64.0" y="296.0" width="196.0" height="34" rx="17.0" fill="#14223A" stroke="#1E2E4A"/><text class="mono" x="162.0" y="317.9" text-anchor="middle" font-size="14" fill="#E6EDF7">BEng (Hons) · IMechE</text></g><g class="rise" style="animation-delay:0.85s"><rect x="270.0" y="296.0" width="204.4" height="34" rx="17.0" fill="#14223A" stroke="#1E2E4A"/><text class="mono" x="372.2" y="317.9" text-anchor="middle" font-size="14" fill="#E6EDF7">Python · SQL · MATLAB</text></g><g class="rise" style="animation-delay:0.95s"><rect x="484.4" y="296.0" width="154.0" height="34" rx="17.0" fill="#14223A" stroke="#1E2E4A"/><text class="mono" x="561.4" y="317.9" text-anchor="middle" font-size="14" fill="#E6EDF7">CAD · FEA · CFD</text></g>
 <text class="mono rise" style="animation-delay:1s" x="64" y="388" font-size="13" letter-spacing="1" fill="#5A6C8C">github.com/JGit705</text>
 

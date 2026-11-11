@@ -192,19 +192,19 @@ def hero() -> str:
 <g class="rise" style="animation-delay:.05s">
 <circle class="ping" cx="70" cy="87" r="4.5" fill="{GREEN}"/>
 <circle cx="70" cy="87" r="4.5" fill="{GREEN}"/>
-<text class="mono" x="86" y="92" font-size="13" letter-spacing="1.6" fill="{MUTED}">OPEN TO DATA, AUTOMATION &amp; SYSTEMS ROLES · UK-WIDE</text>
+<text class="mono" x="86" y="92" font-size="13" letter-spacing="1.6" fill="{MUTED}">MECHANICAL ENGINEER · LONDON</text>
 </g>
 <text class="rise" style="animation-delay:.2s" x="60" y="178" font-size="70" font-weight="750" letter-spacing="-1.5" fill="url(#shine)">Jamal Lharri</text>
-<text class="mono rise" style="animation-delay:.4s" x="64" y="226" font-size="21" fill="{TEXT}">Mechanical engineer<tspan fill="{AMBER}"> → </tspan><tspan fill="{SKY}">data &amp; automation</tspan></text>
-<text class="rise" style="animation-delay:.55s" x="64" y="264" font-size="18" fill="{MUTED}">Regional Development Team Manager at Ocado Logistics · London</text>
+<text class="mono rise" style="animation-delay:.4s" x="64" y="226" font-size="21" fill="{TEXT}">I build things<tspan fill="{AMBER}"> → </tspan><tspan fill="{SKY}">the code lives here</tspan></text>
+<text class="rise" style="animation-delay:.55s" x="64" y="264" font-size="18" fill="{MUTED}">By day: Regional Development Team Manager at Ocado Logistics</text>
 {''.join(chips)}
 <text class="mono rise" style="animation-delay:1s" x="64" y="388" font-size="13" letter-spacing="1" fill="{DIM}">github.com/JGit705</text>
 
 <text class="mono rise" style="animation-delay:1.1s" x="1148" y="62" text-anchor="end" font-size="13.5" letter-spacing="1.4" fill="{MUTED}">140+ VANS · CENTRAL &amp; WEST LONDON</text>
 <text class="mono rise" style="animation-delay:1.2s" x="1148" y="388" text-anchor="end" font-size="13" letter-spacing="1" fill="{DIM}">51.5072° N   0.1276° W</text>
 """
-    return document(W, H, "Jamal Lharri. Mechanical engineer moving into data and automation. "
-                          "Regional Development Team Manager at Ocado Logistics, London.", body, css, defs)
+    return document(W, H, "Jamal Lharri. Mechanical engineer in London who builds things and keeps the code here. "
+                          "By day, Regional Development Team Manager at Ocado Logistics.", body, css, defs)
 
 
 # ---------------------------------------------------------------- terminal
@@ -219,11 +219,11 @@ def terminal() -> str:
 
     script = [
         ("whoami", [("Jamal Lharri. ", TEXT),
-                    ("Mechanical engineer (BEng, IMechE) who builds data and automation tools.", MUTED)]),
-        ("cat now.txt", [("Regional Development Team Manager @ Ocado. ", TEXT),
-                         ("Daily dispatch for 140+ vans, Central & West London.", MUTED)]),
-        ("ls ~/builds", [("MOTIntel/   RadarScope/   SkyTrack/   SafeSite/   Wayglow/", SKY)]),
-        ("echo $OPEN_TO", [("Data, automation and systems engineering roles. ", TEXT), ("UK-wide.", AMBER)]),
+                    ("Mechanical engineer (BEng, IMechE) in London.", MUTED)]),
+        ("cat day_job.txt", [("Ocado Logistics. ", TEXT),
+                             ("Daily dispatch for 140+ vans across Central & West London.", MUTED)]),
+        ("ls ~/builds", [("MOTIntel/   RadarScope/   SkyTrack/   SafeSite/", SKY)]),
+        ("git log -1 --oneline", [("a3f9c21 ", AMBER), ("feat: whatever I build next", TEXT)]),
     ]
 
     css = [
@@ -303,11 +303,11 @@ def numbers() -> str:
     base = 102
     tiles = [
         ("42.7M", "MOT tests analysed", "MOTINTEL · DVSA 2025"),
-        ("140+", "vans in daily dispatch", "OCADO LOGISTICS"),
         ("24", "CAD projects modelled", "ONSHAPE · SOLIDWORKS"),
         ("14", "engineering case studies", "FEA · CFD · AUTONOMY"),
     ]
-    tile_w, gap = 285, 20
+    gap = 20
+    tile_w = (W - gap * (len(tiles) - 1)) / len(tiles)
     css = [
         ".bar{transform-box:fill-box;transform-origin:0 50%;animation:bar 1.2s cubic-bezier(.16,1,.3,1) both}",
         "@keyframes bar{from{transform:scaleX(0)}}",
@@ -318,8 +318,8 @@ def numbers() -> str:
     col_id = 0
     for ti, (value, label, source) in enumerate(tiles):
         tx = ti * (tile_w + gap)
-        body.append(f'<rect x="{tx + .5}" y=".5" width="{tile_w - 1}" height="{H - 1}" rx="16" fill="{PANEL}" stroke="{LINE}"/>')
-        body.append(f'<rect class="bar" style="animation-delay:{.2 + ti * .15:.2f}s" x="{tx + 24}" y="24" width="30" height="3" rx="1.5" fill="{AMBER}"/>')
+        body.append(f'<rect x="{tx + .5:.1f}" y=".5" width="{tile_w - 1:.1f}" height="{H - 1}" rx="16" fill="{PANEL}" stroke="{LINE}"/>')
+        body.append(f'<rect class="bar" style="animation-delay:{.2 + ti * .15:.2f}s" x="{tx + 24:.1f}" y="24" width="30" height="3" rx="1.5" fill="{AMBER}"/>')
         for ci, ch in enumerate(value):
             x = tx + 24 + ci * cw
             delay = .15 + ti * .15 + ci * .1
@@ -339,8 +339,8 @@ def numbers() -> str:
             )
             body.append(f'<g clip-path="url(#n{col_id})"><g class="r{col_id}" style="transform:translateY({to}px)">{digits}</g></g>')
             col_id += 1
-        body.append(f'<text class="fade" style="animation-delay:{.6 + ti * .15:.2f}s" x="{tx + 24}" y="138" font-size="17" font-weight="600" fill="{TEXT}">{esc(label)}</text>')
-        body.append(f'<text class="mono fade" style="animation-delay:{.7 + ti * .15:.2f}s" x="{tx + 24}" y="161" font-size="12.5" letter-spacing="1.2" fill="{DIM}">{esc(source)}</text>')
+        body.append(f'<text class="fade" style="animation-delay:{.6 + ti * .15:.2f}s" x="{tx + 24:.1f}" y="138" font-size="17" font-weight="600" fill="{TEXT}">{esc(label)}</text>')
+        body.append(f'<text class="mono fade" style="animation-delay:{.7 + ti * .15:.2f}s" x="{tx + 24:.1f}" y="161" font-size="12.5" letter-spacing="1.2" fill="{DIM}">{esc(source)}</text>')
 
     alt = "By the numbers: " + "; ".join(f"{v} {l} ({s.title()})" for v, l, s in tiles)
     return document(W, H, alt, "\n".join(body), "\n".join(css), "".join(defs))
@@ -653,8 +653,8 @@ def footer() -> str:
               'keyPoints="0;1;1" keyTimes="0;.8;1" calcMode="spline" keySplines=".6 0 .4 1;0 0 1 1"/>')
     body = f"""
 <rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="16" fill="{PANEL}" stroke="{LINE}"/>
-<text x="{W / 2}" y="58" text-anchor="middle" font-size="26" font-weight="700" letter-spacing="-.3" fill="{TEXT}">Let’s build something that runs on real data.</text>
-<text class="mono" x="{W / 2}" y="88" text-anchor="middle" font-size="13" letter-spacing="1" fill="{MUTED}">linkedin.com/in/jamal-lharri   ·   jamal-lharri-portfolio.vercel.app</text>
+<text x="{W / 2}" y="58" text-anchor="middle" font-size="26" font-weight="700" letter-spacing="-.3" fill="{TEXT}">Thanks for having a look around.</text>
+<text class="mono" x="{W / 2}" y="88" text-anchor="middle" font-size="13" letter-spacing="1" fill="{MUTED}">Spotted a bug or got an idea? Open an issue   ·   linkedin.com/in/jamal-lharri</text>
 <path class="march" d="{route}" stroke="{SKY}" stroke-opacity=".45" stroke-width="2" stroke-dasharray="12 12"/>
 <circle class="ping" cx="110" cy="{y}" r="6" fill="{SKY}"/>
 <circle cx="110" cy="{y}" r="6" fill="{BG}" stroke="{SKY}" stroke-width="2.5"/>
@@ -662,10 +662,11 @@ def footer() -> str:
 <rect x="1080" y="{y - 10}" width="20" height="20" rx="5" fill="{AMBER}"/>
 <circle r="9" fill="{AMBER}" opacity=".5">{motion}</circle>
 <circle r="4.5" fill="{AMBER}">{motion}</circle>
-<text class="mono" x="110" y="{y + 30}" text-anchor="middle" font-size="11" letter-spacing="1.2" fill="{DIM}">YOUR TEAM</text>
-<text class="mono" x="1090" y="{y + 30}" text-anchor="middle" font-size="11" letter-spacing="1.2" fill="{DIM}">DELIVERED</text>
+<text class="mono" x="110" y="{y + 30}" text-anchor="middle" font-size="11" letter-spacing="1.2" fill="{DIM}">IDEA</text>
+<text class="mono" x="1090" y="{y + 30}" text-anchor="middle" font-size="11" letter-spacing="1.2" fill="{DIM}">SHIPPED</text>
 """
-    return document(W, H, "Let's build something that runs on real data. linkedin.com/in/jamal-lharri", body, css)
+    return document(W, H, "Thanks for having a look around. Spotted a bug or got an idea? Open an issue, "
+                          "or find me at linkedin.com/in/jamal-lharri", body, css)
 
 
 ASSETS = {

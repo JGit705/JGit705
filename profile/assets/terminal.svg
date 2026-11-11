@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="362" viewBox="0 0 1200 362" role="img" aria-label="$ whoami: Jamal Lharri. Mechanical engineer (BEng, IMechE) who builds data and automation tools. $ cat now.txt: Regional Development Team Manager @ Ocado. Daily dispatch for 140+ vans, Central &amp; West London. $ ls ~/builds: MOTIntel/   RadarScope/   SkyTrack/   SafeSite/   Wayglow/ $ echo $OPEN_TO: Data, automation and systems engineering roles. UK-wide.">
-<title>$ whoami: Jamal Lharri. Mechanical engineer (BEng, IMechE) who builds data and automation tools. $ cat now.txt: Regional Development Team Manager @ Ocado. Daily dispatch for 140+ vans, Central &amp; West London. $ ls ~/builds: MOTIntel/   RadarScope/   SkyTrack/   SafeSite/   Wayglow/ $ echo $OPEN_TO: Data, automation and systems engineering roles. UK-wide.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="362" viewBox="0 0 1200 362" role="img" aria-label="$ whoami: Jamal Lharri. Mechanical engineer (BEng, IMechE) in London. $ cat day_job.txt: Ocado Logistics. Daily dispatch for 140+ vans across Central &amp; West London. $ ls ~/builds: MOTIntel/   RadarScope/   SkyTrack/   SafeSite/ $ git log -1 --oneline: a3f9c21 feat: whatever I build next">
+<title>$ whoami: Jamal Lharri. Mechanical engineer (BEng, IMechE) in London. $ cat day_job.txt: Ocado Logistics. Daily dispatch for 140+ vans across Central &amp; West London. $ ls ~/builds: MOTIntel/   RadarScope/   SkyTrack/   SafeSite/ $ git log -1 --oneline: a3f9c21 feat: whatever I build next</title>
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
 .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
@@ -17,30 +17,30 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 @keyframes o0{0%,11.067%{opacity:0}11.867%,100%{opacity:1}}
 .p1{animation:p1 15.0s linear infinite both}
 @keyframes p1{0%,16.400%{opacity:0}16.467%,100%{opacity:1}}
-.k1{transform:translateX(105.6px);animation:k1 15.0s linear infinite both}
-@keyframes k1{0%,19.400%{transform:translateX(0);animation-timing-function:steps(11,end)}23.800%,100%{transform:translateX(105.6px)}}
+.k1{transform:translateX(144.0px);animation:k1 15.0s linear infinite both}
+@keyframes k1{0%,19.400%{transform:translateX(0);animation-timing-function:steps(15,end)}25.400%,100%{transform:translateX(144.0px)}}
 .c1{opacity:0;animation:c1 15.0s linear infinite both}
-@keyframes c1{0%,16.400%{opacity:0}16.467%,26.133%{opacity:1}26.200%,100%{opacity:0}}
+@keyframes c1{0%,16.400%{opacity:0}16.467%,27.733%{opacity:1}27.800%,100%{opacity:0}}
 .o1{animation:o1 15.0s linear infinite both}
-@keyframes o1{0%,26.133%{opacity:0}26.933%,100%{opacity:1}}
+@keyframes o1{0%,27.733%{opacity:0}28.533%,100%{opacity:1}}
 .p2{animation:p2 15.0s linear infinite both}
-@keyframes p2{0%,31.467%{opacity:0}31.533%,100%{opacity:1}}
+@keyframes p2{0%,33.067%{opacity:0}33.133%,100%{opacity:1}}
 .k2{transform:translateX(105.6px);animation:k2 15.0s linear infinite both}
-@keyframes k2{0%,34.467%{transform:translateX(0);animation-timing-function:steps(11,end)}38.867%,100%{transform:translateX(105.6px)}}
+@keyframes k2{0%,36.067%{transform:translateX(0);animation-timing-function:steps(11,end)}40.467%,100%{transform:translateX(105.6px)}}
 .c2{opacity:0;animation:c2 15.0s linear infinite both}
-@keyframes c2{0%,31.467%{opacity:0}31.533%,41.200%{opacity:1}41.267%,100%{opacity:0}}
+@keyframes c2{0%,33.067%{opacity:0}33.133%,42.800%{opacity:1}42.867%,100%{opacity:0}}
 .o2{animation:o2 15.0s linear infinite both}
-@keyframes o2{0%,41.200%{opacity:0}42.000%,100%{opacity:1}}
+@keyframes o2{0%,42.800%{opacity:0}43.600%,100%{opacity:1}}
 .p3{animation:p3 15.0s linear infinite both}
-@keyframes p3{0%,46.533%{opacity:0}46.600%,100%{opacity:1}}
-.k3{transform:translateX(124.8px);animation:k3 15.0s linear infinite both}
-@keyframes k3{0%,49.533%{transform:translateX(0);animation-timing-function:steps(13,end)}54.733%,100%{transform:translateX(124.8px)}}
+@keyframes p3{0%,48.133%{opacity:0}48.200%,100%{opacity:1}}
+.k3{transform:translateX(192.0px);animation:k3 15.0s linear infinite both}
+@keyframes k3{0%,51.133%{transform:translateX(0);animation-timing-function:steps(20,end)}59.133%,100%{transform:translateX(192.0px)}}
 .c3{opacity:0;animation:c3 15.0s linear infinite both}
-@keyframes c3{0%,46.533%{opacity:0}46.600%,57.067%{opacity:1}57.133%,100%{opacity:0}}
+@keyframes c3{0%,48.133%{opacity:0}48.200%,61.467%{opacity:1}61.533%,100%{opacity:0}}
 .o3{animation:o3 15.0s linear infinite both}
-@keyframes o3{0%,57.067%{opacity:0}57.867%,100%{opacity:1}}
+@keyframes o3{0%,61.467%{opacity:0}62.267%,100%{opacity:1}}
 .pf{animation:pf 15.0s linear infinite both}
-@keyframes pf{0%,62.400%{opacity:0}62.467%,100%{opacity:1}}
+@keyframes pf{0%,66.800%{opacity:0}66.867%,100%{opacity:1}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
 <defs><clipPath id="clip"><rect width="1200" height="362" rx="16"/></clipPath></defs>
@@ -61,22 +61,22 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <text class="mono" x="74.4" y="86" font-size="16" fill="#E6EDF7" textLength="57.6" lengthAdjust="spacing">whoami</text>
 <g class="k0"><rect x="74.4" y="66" width="71.6" height="28" fill="#0E1729"/>
 <rect class="c0" x="74.4" y="70" width="9.6" height="21" fill="#E6EDF7" opacity=".85"/></g>
-<text class="mono o0" style="white-space:pre" x="36" y="117" font-size="16" textLength="825.6" lengthAdjust="spacing"><tspan fill="#E6EDF7">Jamal Lharri. </tspan><tspan fill="#8B9BB4">Mechanical engineer (BEng, IMechE) who builds data and automation tools.</tspan></text>
+<text class="mono o0" style="white-space:pre" x="36" y="117" font-size="16" textLength="566.4" lengthAdjust="spacing"><tspan fill="#E6EDF7">Jamal Lharri. </tspan><tspan fill="#8B9BB4">Mechanical engineer (BEng, IMechE) in London.</tspan></text>
 <g class="p1"><text class="mono" x="36" y="148" font-size="16"><tspan fill="#3DDC97">~</tspan><tspan fill="#5A6C8C"> $</tspan></text></g>
-<text class="mono" x="74.4" y="148" font-size="16" fill="#E6EDF7" textLength="105.6" lengthAdjust="spacing">cat now.txt</text>
-<g class="k1"><rect x="74.4" y="128" width="119.6" height="28" fill="#0E1729"/>
+<text class="mono" x="74.4" y="148" font-size="16" fill="#E6EDF7" textLength="144.0" lengthAdjust="spacing">cat day_job.txt</text>
+<g class="k1"><rect x="74.4" y="128" width="158.0" height="28" fill="#0E1729"/>
 <rect class="c1" x="74.4" y="132" width="9.6" height="21" fill="#E6EDF7" opacity=".85"/></g>
-<text class="mono o1" style="white-space:pre" x="36" y="179" font-size="16" textLength="912.0" lengthAdjust="spacing"><tspan fill="#E6EDF7">Regional Development Team Manager @ Ocado. </tspan><tspan fill="#8B9BB4">Daily dispatch for 140+ vans, Central &amp; West London.</tspan></text>
+<text class="mono o1" style="white-space:pre" x="36" y="179" font-size="16" textLength="720.0" lengthAdjust="spacing"><tspan fill="#E6EDF7">Ocado Logistics. </tspan><tspan fill="#8B9BB4">Daily dispatch for 140+ vans across Central &amp; West London.</tspan></text>
 <g class="p2"><text class="mono" x="36" y="210" font-size="16"><tspan fill="#3DDC97">~</tspan><tspan fill="#5A6C8C"> $</tspan></text></g>
 <text class="mono" x="74.4" y="210" font-size="16" fill="#E6EDF7" textLength="105.6" lengthAdjust="spacing">ls ~/builds</text>
 <g class="k2"><rect x="74.4" y="190" width="119.6" height="28" fill="#0E1729"/>
 <rect class="c2" x="74.4" y="194" width="9.6" height="21" fill="#E6EDF7" opacity=".85"/></g>
-<text class="mono o2" style="white-space:pre" x="36" y="241" font-size="16" textLength="556.8" lengthAdjust="spacing"><tspan fill="#4DA3FF">MOTIntel/   RadarScope/   SkyTrack/   SafeSite/   Wayglow/</tspan></text>
+<text class="mono o2" style="white-space:pre" x="36" y="241" font-size="16" textLength="451.2" lengthAdjust="spacing"><tspan fill="#4DA3FF">MOTIntel/   RadarScope/   SkyTrack/   SafeSite/</tspan></text>
 <g class="p3"><text class="mono" x="36" y="272" font-size="16"><tspan fill="#3DDC97">~</tspan><tspan fill="#5A6C8C"> $</tspan></text></g>
-<text class="mono" x="74.4" y="272" font-size="16" fill="#E6EDF7" textLength="124.8" lengthAdjust="spacing">echo $OPEN_TO</text>
-<g class="k3"><rect x="74.4" y="252" width="138.8" height="28" fill="#0E1729"/>
+<text class="mono" x="74.4" y="272" font-size="16" fill="#E6EDF7" textLength="192.0" lengthAdjust="spacing">git log -1 --oneline</text>
+<g class="k3"><rect x="74.4" y="252" width="206.0" height="28" fill="#0E1729"/>
 <rect class="c3" x="74.4" y="256" width="9.6" height="21" fill="#E6EDF7" opacity=".85"/></g>
-<text class="mono o3" style="white-space:pre" x="36" y="303" font-size="16" textLength="537.6" lengthAdjust="spacing"><tspan fill="#E6EDF7">Data, automation and systems engineering roles. </tspan><tspan fill="#FFB020">UK-wide.</tspan></text>
+<text class="mono o3" style="white-space:pre" x="36" y="303" font-size="16" textLength="336.0" lengthAdjust="spacing"><tspan fill="#FFB020">a3f9c21 </tspan><tspan fill="#E6EDF7">feat: whatever I build next</tspan></text>
 <g class="pf"><text class="mono" x="36" y="334" font-size="16"><tspan fill="#3DDC97">~</tspan><tspan fill="#5A6C8C"> $</tspan></text>
 <rect class="blink" x="74.4" y="318" width="9.6" height="21" fill="#E6EDF7" opacity=".85"/></g>
 </g>
